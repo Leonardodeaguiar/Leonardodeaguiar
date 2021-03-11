@@ -2,7 +2,6 @@
 
 ### Olá, Eu sou Leonardo Aguiar
 
-## Contatos
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>]("https://linkedin.com/leonardodeaguiar")
 [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>]("https://github.com/leonardodeaguiar")
 [<img alt="email" src="https://img.shields.io/static/v1?label=Email&logo=at&message=Leonardodeaguiar@outlook.com.br&color=white&style=for-the-badge" />]("mailto:leonardodeaguiar@outlook.com.br")
@@ -21,5 +20,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img alt="leonardo's github stats" src="https://github-readme-stats-two-peach.vercel.app/api?username=Leonardodeaguiar&show_icons=true&theme=tokyonight" />
-
- [<img src="https://spotify-now-psi.vercel.app/api/spotify" alt="Playing now" width="350" />](https://open.spotify.com/user/lenrd)
