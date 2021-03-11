@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img alt="leonardo's github stats" src="https://github-readme-stats-two-peach.vercel.app/api?username=Leonardodeaguiar&show_icons=true&theme=tokyonight" />
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>]("https://linkedin.com/leonardodeaguiar")
