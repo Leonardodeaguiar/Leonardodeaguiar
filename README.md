@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <img alt="leonardo's github stats" src="https://github-readme-stats-two-peach.vercel.app/api?username=Leonardodeaguiar&show_icons=true&theme=tokyonight" />
 
 
-[![Spotify](https://novatorem-eight-smoky.vercel.app/api/spotify)](https://open.spotify.com/user/lenrd)
+[![Spotify](https://novatorem-leonardodeaguiar.vercel.app/api/spotify)](https://open.spotify.com/user/lenrd)
