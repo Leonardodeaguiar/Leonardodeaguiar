@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <img alt="leonardo's github stats" src="https://github-readme-stats-two-peach.vercel.app/api?username=Leonardodeaguiar&show_icons=true&theme=tokyonight" />
 
 
-[<img alt="now playing" src="https://novatorem-leonardodeaguiar.vercel.app/api/spotify" />](https://open.spotify.com/user/lenrd)
+<img alt="now playing" src="https://novatorem-leonardodeaguiar.vercel.app/api/spotify" />
