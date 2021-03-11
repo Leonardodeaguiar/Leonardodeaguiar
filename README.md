@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 -->
 <img alt="leonardo's github stats" src="https://github-readme-stats-two-peach.vercel.app/api?username=Leonardodeaguiar&show_icons=true&theme=tokyonight" />
 
+<!--START_SECTION:activity-->
