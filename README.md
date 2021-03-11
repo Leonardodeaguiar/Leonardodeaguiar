@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/anuraghazra/github-readme-stats/api?username=Leonardodeaguiar" />
+[![Leonardo GitHub stats](https://github.com/anuraghazra/github-readme-stats/api?username=Leonardodeaguiar)](https://github.com/Leonardodeaguiar/github-readme-stats)
+<img src="https://github-readme-stats-two-peach.vercel.app/api?username=Leonardodeaguiar" />
