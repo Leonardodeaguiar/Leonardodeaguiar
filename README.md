@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Leonardo GitHub stats](https://github.com/anuraghazra/github-readme-stats/api?username=Leonardodeaguiar)](https://github.com/Leonardodeaguiar/github-readme-stats)
+<img src="https://github.com/anuraghazra/github-readme-stats/api?username=Leonardodeaguiar" />
