@@ -1,6 +1,7 @@
 <!--START_SECTION:activity-->
 
 ### Olá, Eu sou Leonardo Aguiar
+### ainda em construção!
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>]("https://linkedin.com/leonardodeaguiar")
 [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>]("https://github.com/leonardodeaguiar")
